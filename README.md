@@ -17,6 +17,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 	- Since Google Colab requires an internet connection, please make sure you have a working connection at the university.
 	- Google Colab also requires a Google account. If you do not have an account, you can create one for free. You do not need to add any personal information to your account to use Colab.
 - **Exam:**
+  - Presentation sessions: November 18-19 during the lecture slots
   - First Exam: November 30, 2024, 13:00
   - Second exam: March 12, 2025, 14:00
   - Registration for the exam takes place as usual on KLIPS. If you are a doctoral student and do not have access to the course on KLIPS, please write to kraaij[at]wiso.uni-koeln.de that you want to take the exam.
@@ -39,7 +40,7 @@ The examination consists of two parts. The first part is a written multiple-choi
 
 The second part is a group assignment about an analysis using a data set of each group's choice. This assignment is designed to help students apply the skills learned in the course to a practical application of their choice.
 
-For the assignments, groups of 2-4 students will apply the skills learned in the course to perform the analysis and interpret the results. The groups will give short presentations on their findings on November 18 or 19 during the scheduled date for the course. Each group will be assigned to a time slot to present without the presence of the other groups.
+For the assignments, groups of 2-4 students will apply the skills learned in the course to perform the analysis and interpret the results. The groups will give short presentations on their findings on **November 18 or 19** during the scheduled date for the course. Each group will be assigned to a time slot to present without the presence of the other groups.
 
 We will randomly allocate students to groups during the course. In addition to the short presentation, each group will hand in a notebook with their analysis code, explanation, and interpretation.
 
