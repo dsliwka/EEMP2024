@@ -9,7 +9,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 ### Organizational Issues
 
 - The sessions take place on _Mondays (14:00-17:45)_ and _Tuesdays (09:00-11:45)_ during the first term of the semester.
-   	- Lecture room: 101 Seminarraum 0.224 (WiSo Building)
+   	- Lecture room: 101 Seminarraum 0.224 (WiSo building)
 	- Note that we start an hour later on Tuesday than announced on KLIPS.
 - We will be using Google Colab throughout the course.
 	- You can find information about this service [here](https://colab.research.google.com/).
@@ -18,8 +18,8 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 	- Google Colab also requires a Google account. If you do not have an account, you can create one for free. You do not need to add any personal information to your account to use Colab.
 - **Exam:**
   - Presentation sessions: November 18-19 during the lecture slots
-  - First Exam: November 30, 2024, 13:00
-  - Second exam: March 12, 2025, 14:00
+  - First Exam: November 30, 2024, 13:00-14:00 at 100 Hörsaal II (main building)
+  - Second exam: March 12, 2025, 14:00-15:00 at 100 Hörsaal XVIIa (main building)
   - Registration for the exam takes place as usual on KLIPS. If you are a doctoral student and do not have access to the course on KLIPS, please write to kraaij[at]wiso.uni-koeln.de that you want to take the exam.
 
 ### Course Content
