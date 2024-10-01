@@ -43,12 +43,14 @@ _Note: Content will become available sequentially as the time of the session app
 
 
 ### Literature
-The lecture and tutorial materials we provide will enable you to prepare for the exam. None of the sources below are compulsory, but they might be helpful in addition.
+The lecture and tutorial materials we provide will enable you to prepare for the exam. None of the sources below are compulsory, but they might be helpful in addition, in particular:
   - Angrist and Pischke [Mostly Harmless Econometrics: An Empiricist's Companion](https://press.princeton.edu/books/ebook/9781400829828/mostly-harmless-econometrics) (Ch. 2 and 3)
+  - Arthur Turell's [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html) and [Python for Data Science](https://aeturrell.github.io/python4DS/welcome.html)
   - James, Witten, Hastie, Tibshirani [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)	
+ 
+Further sources:  
   - Mastering Metrics: The Path from Cause to Effect [Angrist, Pischke]
   - Scott Cunningham's [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
-  - Arthur Turell's [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html) and [Python for Data Science](https://aeturrell.github.io/python4DS/welcome.html)
   - Matheus Facure Alves’s [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
   - Introduction to machine learning with Python: a guide for data scientists [Müller, Guido]
   - Introductory Econometrics: A Modern Approach [Wooldridge]
