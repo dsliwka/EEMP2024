@@ -23,7 +23,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 _Note: Content will become available sequentially as the time of the session approaches._
 
 - Part 0: Introduction to Python
-- Part 1: Regressions
+- Part 1: [Regressions](\Lecture\Eval2024_1.pdf) 
 - Part 2: Statistical Tests
 - Part 3: Causality
 - Part 4: Survey Data and the Reliability of Scales
