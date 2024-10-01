@@ -40,6 +40,7 @@ _Note: Content will become available sequentially as the time of the session app
   - First Exam: November 30, 2024, 13:00-14:00 at 100 Hörsaal II (main building)
   - Second exam: March 12, 2025, 14:00-15:00 at 100 Hörsaal XVIIa (main building)
   - Registration for the exam takes place as usual on KLIPS. If you are a doctoral student and do not have access to the course on KLIPS, please write to kraaij[at]wiso.uni-koeln.de that you want to take the exam.
+- [Examination details](./Lectures/exam_information_2024)  
 
 
 ### Literature
