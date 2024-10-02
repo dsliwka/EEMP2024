@@ -31,7 +31,7 @@ _Note: Content will become available sequentially as the time of the session app
 - Part 6: Predictions and Machine Learning
 
 ### Examination format
-- The exam consists of group work and a multiple choice exam. **Please register until October 15!**
+- The exam consists of group work and a multiple-choice exam. **Please register until October 15!**
 - **Group work:**
   - At the end of the second week of the semester, you will be assigned to a group. We will randomly allocate students to groups during the course. 
   - In the group, you will analyze a data set of your own choice and apply the methods learned in class. This assignment is designed to help students apply the skills learned in the course to a practical application of their choice.
