@@ -38,7 +38,7 @@ _Note: Content will become available sequentially as the time of the session app
   - Tips for data sets:
   	- https://sites.google.com/site/pietrobiroli/resources
    	- https://www.one-tab.com/page/V9ynqnTmQK-P9hfQNmUBRQ
-    	- https://wiso.uni-koeln.de/en/faculty/wiso-library-and-campus-service/research-databases
+	- https://wiso.uni-koeln.de/en/faculty/wiso-library-and-campus-service/research-databases
   - The groups will give short presentations of their work (about 12 minutes per group + 10 minutes of discussion) on **November 18-19** during the scheduled lecture slots. Groups must hand in their slides and a Juypter Notebook with their analysis code, explanation, and interpretation by **November 18** at noon. Each group will be assigned to a time slot to present without the presence of the other groups.
 - **Exam:** There will be two exam dates, but we encourage you to take the first one (registration until October 15)
   - First Exam: November 30, 2024, 13:00-14:00 at 100 Hörsaal II (main building)
