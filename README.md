@@ -23,7 +23,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 _Note: Content will become available sequentially as the time of the session approaches._
 
 - Part 0: Introduction to Python - [Introduction](https://colab.research.google.com/drive/1sFPxjDqc2m3YoLxIpjIraOP3hbTxueqf?usp=sharing) - [Quiz](https://colab.research.google.com/drive/1XBnqIWlDqapd9b5NnKvJ6F9jnwVvwOwb?usp=sharing) - [Solutions](https://colab.research.google.com/drive/1XD-ijdZtAPMawuL2sKhad-v-6s8La8JI?usp=sharing)
-- Part 1: [Regressions](./Lectures/Eval2024_1.pdf) - [Notebook LPP](https://colab.research.google.com/drive/1-YiYAQTY15tuLoQXPz6SOcNyY5JrHoPA?usp=sharing) - [Notebook Management Practices](https://colab.research.google.com/drive/1ehhqzoFuY78hVU04z-hedgDxyJlsQwZt?usp=sharing)
+- Part 1: Regressions - [Slides](./Lectures/Eval2024_1.pdf) - [Notebook LPP](https://colab.research.google.com/drive/1-YiYAQTY15tuLoQXPz6SOcNyY5JrHoPA?usp=sharing) - [Notebook Management Practices](https://colab.research.google.com/drive/1ehhqzoFuY78hVU04z-hedgDxyJlsQwZt?usp=sharing)
 - Part 2: Statistical Tests
 - Part 3: Causality
 - Part 4: Survey Data and the Reliability of Scales
