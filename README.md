@@ -25,7 +25,7 @@ _Note: Content will become available sequentially as the time of the session app
 - Part 0: Introduction to Python - [Introduction](https://colab.research.google.com/drive/1sFPxjDqc2m3YoLxIpjIraOP3hbTxueqf?usp=sharing) - [Quiz](https://colab.research.google.com/drive/1XBnqIWlDqapd9b5NnKvJ6F9jnwVvwOwb?usp=sharing) - [Solutions](https://colab.research.google.com/drive/1XD-ijdZtAPMawuL2sKhad-v-6s8La8JI?usp=sharing)
 - Part 1: Regressions - [Slides](./Lectures/Eval2024_1.pdf) - [Notebook LPP](https://colab.research.google.com/drive/1-YiYAQTY15tuLoQXPz6SOcNyY5JrHoPA?usp=sharing) - [Notebook Management Practices](https://colab.research.google.com/drive/1ehhqzoFuY78hVU04z-hedgDxyJlsQwZt?usp=sharing)
 - Part 2: Statistical Tests [Slides](./Lectures/Eval2024_2.pdf)
-- Part 3: Causality
+- Part 3: Causality [Slides](./Lectures/Eval2024_3.pdf)
 - Part 4: Survey Data and the Reliability of Scales
 - Part 5: Panel Data
 - Part 6: Predictions and Machine Learning
