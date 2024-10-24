@@ -37,7 +37,7 @@ _Note: Content will become available sequentially as the time of the session app
   - In the group, you will analyze a data set of your own choice and apply the methods learned in class. This assignment is designed to help students apply the skills learned in the course to a practical application of their choice.
   - Tips for data sets:
   	- https://sites.google.com/site/pietrobiroli/resources
-    	- https://www.one-tab.com/page/STn8dvhbRLeFwh085-i00w
+   	- https://www.one-tab.com/page/STn8dvhbRLeFwh085-i00w
 	- https://wiso.uni-koeln.de/en/faculty/wiso-library-and-campus-service/research-databases
   - The groups will give short presentations of their work (about 12 minutes per group + 10 minutes of discussion) on **November 18-19** during the scheduled lecture slots. Groups must hand in their slides and a Juypter Notebook with their analysis code, explanation, and interpretation by **November 18** at noon. Each group will be assigned to a time slot to present without the presence of the other groups.
 - **Multiple-choice exam:** There will be two exam dates, but we encourage you to take the first one (registration until October 15)
