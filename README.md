@@ -35,6 +35,7 @@ _Note: Content will become available sequentially as the time of the session app
 - **Group work:**
   - At the end of the second week of the semester, you will be assigned to a group. We will randomly allocate students to groups during the course. 
   - In the group, you will analyze a data set of your own choice and apply the methods learned in class. This assignment is designed to help students apply the skills learned in the course to a practical application of their choice.
+  - Some [hints](./Exam/TaskHints.pdf) on how to proceed in your group work
   - Tips for data sets:
   	- https://sites.google.com/site/pietrobiroli/resources
    	- https://www.one-tab.com/page/STn8dvhbRLeFwh085-i00w
