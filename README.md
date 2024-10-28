@@ -26,7 +26,7 @@ _Note: Content will become available sequentially as the time of the session app
 - Part 1: Regressions - [Slides](./Lectures/Eval2024_1.pdf) - [Notebook LPP](https://colab.research.google.com/drive/1-YiYAQTY15tuLoQXPz6SOcNyY5JrHoPA?usp=sharing) - [Notebook Management Practices](https://colab.research.google.com/drive/1ehhqzoFuY78hVU04z-hedgDxyJlsQwZt?usp=sharing)
 - Part 2: Statistical Tests [Slides](./Lectures/Eval2024_2.pdf) - [Notebook Sample Simulation](https://colab.research.google.com/drive/15ushLi3psPoOckRBfrc2iactRChLsvf8?usp=sharing)
 - Part 3: Causality [Slides](./Lectures/Eval2024_3.pdf)
-- Part 4: Survey Data and the Reliability of Scales
+- Part 4: Survey Data, Scale Reliability & Common Method Bias [Slides](./Lectures/Eval2024_4.pdf)
 - Part 5: Panel Data
 - Part 6: Predictions and Machine Learning
 
