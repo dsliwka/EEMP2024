@@ -28,7 +28,7 @@ _Note: Content will become available sequentially as the time of the session app
 - Part 3: Causality - [Slides](./Lectures/Eval2024_3.pdf) - [Notebook Sales Simulation](./Notebooks/SalesSimSampleSolutionsWithComments.ipynb)
 - Part 4: Survey Data, Scale Reliability & Common Method Bias - [Slides](./Lectures/Eval2024_4.pdf) - [Notebook LPP Engagement](./Notebooks/LPPanalyis.ipynb)
 - Part 5: Panel Data - [Slides](./Lectures/Eval2024_5.pdf)
-- Part 6: Predictions and Machine Learning
+- Part 6: Predictions and Machine Learning - [Slides](./Lectures/Eval2024_6.pdf)
 
 ### Examination format
 - The exam consists of group work and a multiple-choice exam. **Please register until October 15!**
