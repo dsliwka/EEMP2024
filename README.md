@@ -27,7 +27,7 @@ _Note: Content will become available sequentially as the time of the session app
 - Part 2: Statistical Tests - [Slides](./Lectures/Eval2024_2.pdf) - [Notebook Sample Simulation](https://colab.research.google.com/drive/15ushLi3psPoOckRBfrc2iactRChLsvf8?usp=sharing)
 - Part 3: Causality - [Slides](./Lectures/Eval2024_3.pdf)
 - Part 4: Survey Data, Scale Reliability & Common Method Bias - [Slides](./Lectures/Eval2024_4.pdf)
-- Part 5: Panel Data
+- Part 5: Panel Data - [Slides](./Lectures/Eval2024_5.pdf)
 - Part 6: Predictions and Machine Learning
 
 ### Examination format
